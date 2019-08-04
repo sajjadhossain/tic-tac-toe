@@ -1,3 +1,6 @@
+# Game
+fixtures/scores/*.txt
+
 # Logs
 logs
 *.log

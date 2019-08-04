@@ -1,0 +1,1 @@
+module.exports = 'scores_1v1_3x3_2019-8-1_20.1.38'

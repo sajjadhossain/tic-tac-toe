@@ -1,0 +1,26 @@
+{
+  "name": "tic-tac-toe-js",
+  "version": "1.0.0",
+  "description": "A tic-tac-toe game in JavaScript that runs via the command line",
+  "main": "new.js",
+  "scripts": {
+    "test": "mocha",
+    "new": "node src/game/new.js",
+    "play": "node src/game/play.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/sajjadhossain/tic-tac-toe.git"
+  },
+  "keywords": [
+    "javascript",
+    "js",
+    "tic-tac-toe"
+  ],
+  "author": "sajjad hossain",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/sajjadhossain/tic-tac-toe/issues"
+  },
+  "homepage": "https://github.com/sajjadhossain/tic-tac-toe#readme"
+}
